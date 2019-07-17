@@ -1,2 +1,0 @@
-# mark
-personal blog
